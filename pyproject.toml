@@ -1,0 +1,12 @@
+[project]
+name = "accounts-mcp-server"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dotenv>=0.9.9",
+    "ipython>=9.13.0",
+    "openai-agents>=0.17.3",
+    "polygon-api-client>=1.16.3",
+]

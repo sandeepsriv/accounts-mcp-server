@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Standard Environments Exclusion
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Database (contains account data and transaction history)
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
